@@ -42,7 +42,8 @@ I want YOUR SUPPORT to make this REPOSITORY available to every single person who
 - **Data Modeling**
   This video will overlap with some concepts from `Data Warehousing` capter. But, I will still recommend to watch this video for better understanding of DATA MODELING.
   - [Data Modeling for Data Engineers](https://youtu.be/K7C1sWKQU-o?si=LwbV1tRlzdSGBwMa)
-
+- **Azure Data Engineering Fundamentals**
+  -[Azure Data Engineering Fundamentals-One shot](https://youtu.be/I8XHFlNNYgU?si=2l0AkLhRnnEUKQEq)
 
 ## Module 3: Master Big Data With Apache Spark
 
